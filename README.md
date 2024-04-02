@@ -1,5 +1,5 @@
 # Ocorrências Aeronáuticas 2013-2023
-## Um estudo de acidententes e incidentes aeronáuticos no Brasil utilizando ***Python***, ***SQL*** e ***Power BI***
+## Um estudo de acidentes e incidentes aeronáuticos no Brasil utilizando ***Python***, ***SQL*** e ***Power BI***
 
 <p align="justify"> Acidentes aeronáuticos graves estão presentes no imaginário popular desde o início da aviação civil. Um buraco se abre na fuselagem, pacientes e bagagens são sugados para fora da aeronave, luzes piscando e respiradores balançando: esta cena já virou cliché e está presente em incontáveis filmes, séries e até videogames. </p>
 

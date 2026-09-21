@@ -1,5 +1,4 @@
 # Ocorrências Aeronáuticas 2013-2023
-### Um estudo de acidentes e incidentes aeronáuticos no Brasil utilizando ***Python***, ***SQL*** e ***Power BI***
 
 Utilizando **Python**, **SQL** e **PowerBI** este é um pequeno estudo das ocorrências aeronáuticas abrangendo o período de 2013-2023. Algumas perguntas a serem exploradas:
 
